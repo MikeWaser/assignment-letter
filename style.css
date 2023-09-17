@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: gray;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.letter{
+    max-width: 600px;
+    box-shadow: 4px 4px 20px;
+    position: relative;
+    border-radius: 0.3em;
+}
+
+.adress{
+    font-size: 20px;
+    margin-left: 4em;
+    margin-top: 9em;
+    position: absolute;
+}
+
+.sender{
+    position: absolute;
+    margin-right: 25em;
+    margin-bottom: 17em;
+}
+
+.stamp{
+    position: absolute;
+    width: 50px;
+    height: auto;
+    margin-bottom: 17em;
+    margin-left: 30em;
+}
+
+p{
+    font-family: 'Inclusive Sans', sans-serif;
+    border-bottom: 1px solid black;
+    margin: 0;
+}
