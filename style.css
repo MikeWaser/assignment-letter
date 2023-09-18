@@ -20,6 +20,7 @@ body {
   font-size: 20px;
   margin-left: 3em;
   margin-top: 7em;
+  min-width: 6em;
 }
 
 .sender {
@@ -27,6 +28,7 @@ body {
   font-size: 17px;
   margin-right: 26em;
   margin-bottom: 16em;
+  min-width: 8em;
 }
 
 .stamp {
